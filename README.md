@@ -9,6 +9,7 @@ The goal of this project is to practice SQL step by step and learn how to work w
 The first version of this SQL portfolio project is complete. The project includes datasets, SQL scripts, data quality checks, analysis queries, and a summary of key findings.
 
 Possible next steps include creating a Power BI dashboard and adding visualizations based on the same datasets.
+
 ## Key Findings
 
 - Countries with higher GDP per capita generally have higher life expectancy.
@@ -44,6 +45,18 @@ Possible next steps include creating a Power BI dashboard and adding visualizati
 - Joining tables with `JOIN`
 - Creating categories with `CASE WHEN`
 - Using Common Table Expressions
+
+## What I Learned
+
+During this project, I practiced creating SQL tables, importing CSV files into SQLite, checking data quality, writing analysis queries, joining tables, using CASE WHEN, working with CTEs, and interpreting query results.
+
+One of the most useful parts for me was learning how JOIN works and why it is important to join data by both country code and year.
+
+## Challenges
+
+One challenge was working with CSV files from Our World in Data, because the original column names were not ideal for SQL. I renamed the columns to make the queries easier to read and understand.
+
+Another challenge was understanding how to structure SQL queries step by step, especially when using JOINs and temporary results with WITH.
 
 ## Note
 
