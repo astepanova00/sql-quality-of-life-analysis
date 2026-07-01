@@ -6,7 +6,16 @@ The goal of this project is to practice SQL step by step and learn how to work w
 
 ## Project Status
 
-This project is currently in progress. The project structure, datasets, SQL scripts, and first analysis results have been added. The next step is to continue running SQL queries and complete the findings summary.
+The first version of this SQL portfolio project is complete. The project includes datasets, SQL scripts, data quality checks, analysis queries, and a summary of key findings.
+
+Possible next steps include creating a Power BI dashboard and adding visualizations based on the same datasets.
+## Key Findings
+
+- Countries with higher GDP per capita generally have higher life expectancy.
+- Czechia's life expectancy increased from approximately 64.41 years in 1950 to 79.83 years in 2023.
+- High GDP countries had the highest average life expectancy, while Low GDP countries had the lowest average life expectancy.
+- Some high GDP countries or territories had lower life expectancy than expected, which shows that GDP per capita alone does not fully explain life expectancy differences.
+- The highest population growth was observed in countries such as the United Arab Emirates and Qatar.
 
 ## Tools Used
 
